@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">PeriodicReminder</string>
+    <string name="widget_name">Periodic Reminder</string>
+    
+    <string name="unknown_title">Unknown</string>
+    <string name="unknown_info">...</string>
+    
+    <string name="done_button">Done</string>
+    
+    <string name="confirm_ok_button">Really</string>
+    <string name="confirm_cancel_button">Oops</string>
+    
+    <string name="config_title_label">Title</string>
+    <string name="config_last_label">Last time</string>
+    <string name="config_interval_label">Interval</string>
+    <string name="config_count_label">Initial count</string>
+    <string name="config_ok_label">OK</string>
+    <string name="config_cancel_label">Cancel</string>
+</resources>
